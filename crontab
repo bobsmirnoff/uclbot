@@ -1,0 +1,2 @@
+0 12 * * * bash ucl_regular_job.sh
+0 1 * * * bash post_matches_job.sh

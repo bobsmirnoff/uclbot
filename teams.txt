@@ -1,0 +1,79 @@
+BV Borussia 09 Dortmund - 4
+FC Bayern München - 5
+Borussia Mönchengladbach - 18
+Chelsea FC - 61
+Liverpool FC - 64
+Manchester City FC - 65
+Manchester United FC - 66
+Club Atlético de Madrid - 78
+FC Barcelona - 81
+Real Madrid CF - 86
+Atalanta BC - 102
+FC Internazionale Milano - 108
+Juventus FC - 109
+SS Lazio - 110
+FC Porto - 503
+Olympique de Marseille - 516
+Paris Saint-Germain FC - 524
+Stade Rennais FC 1901 - 529
+Sevilla FC - 559
+Beşiktaş JK - 600
+Qarabağ Ağdam FK - 611
+PAE Olympiakos SFP - 654
+AFC Ajax - 678
+AZ - 682
+RB Leipzig - 721
+FK Zenit Sankt-Petersburg - 731
+Celtic FC - 732
+GNK Dinamo Zagreb - 755
+FK Dynamo Kyiv - 842
+Club Brugge KV - 851
+SK Slavia Praha - 930
+KAA Gent - 1057
+Legia Warszawa - 1105
+BSC Young Boys - 1871
+Dundalk FC - 1873
+Europa FC - 1874
+FC Red Bull Salzburg - 1877
+FC Sheriff Tiraspol - 1880
+FC Viktoria Plzeň - 1881
+Astana FK - 1884
+FK Budućnost Podgorica - 1885
+FK Shakhtar Donetsk - 1887
+Linfield FC - 1896
+Medipol Başakşehir FK - 1897
+PFK Ludogorets 1945 Razgrad - 1901
+Sport Lisboa e Benfica - 1903
+SK Rapid Wien - 2014
+FK Sarajevo - 4275
+NK Lokomotiva Zagreb - 4450
+FC Midtjylland - 4485
+Kuopion PS - 4655
+FC Flora - 5100
+Connah's Quay Nomads FC - 5142
+Djurgårdens IF Fotboll - 5280
+FK Krasnodar - 5452
+FK Lokomotiv Moskva - 5455
+FC CFR 1907 Cluj - 5515
+Molde FK - 5726
+Floriana FC - 5804
+FK Sūduva Marijampolė - 5819
+Rīga FC - 5826
+Maccabi Tel Aviv FC - 5929
+KR Reykjavík - 5947
+Ferencvárosi TC - 5954
+PAOK FC - 6146
+Drita KF Gjilan - 7282
+FK Crvena Zvezda - 7283
+KÍ - 7472
+SP Tre Fiori - 7473
+CS Fola Esch - 7480
+FC Dinamo Tbilisi - 7482
+ŠK Slovan Bratislava - 7509
+FK Dinamo Brest - 7518
+FC Ararat-Armenia - 8164
+Inter Club d'Escaldes - 8912
+FK Sileks - 8920
+AS Omonia Lefkosía - 8983
+KF Tirana - 8984
+NK Celje - 8985

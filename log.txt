@@ -1,0 +1,484 @@
+Today is 2020-10-21
+Todays matches passed: ['Group A', 'Lokomotiv Moskva vs Red Bull Salzburg', 'Club Atlético de Madrid vs Bayern München', '', 'Group B', 'Shakhtar Donetsk vs Real Madrid CF', 'Borussia Mönchengladbach vs Internazionale Milano', '', 'Group C', 'Porto vs Manchester City', 'Olympique de Marseille vs PAE Olympiakos SFP', '', 'Group D', 'Liverpool vs Ajax', 'Atalanta BC vs Midtjylland', '']
+Passing matches to 164624686	bobsmirnov
+
+['Group A', 'Lokomotiv Moskva vs Red Bull Salzburg', 'Club Atlético de Madrid vs Bayern München', '', 'Group B', 'Shakhtar Donetsk vs Real Madrid CF', 'Borussia Mönchengladbach vs Internazionale Milano', '', 'Group C', 'Porto vs Manchester City', 'Olympique de Marseille vs PAE Olympiakos SFP', '', 'Group D', 'Liverpool vs Ajax', 'Atalanta BC vs Midtjylland', '']
+Passing matches to 537503	ortemij
+
+['Group A', 'Lokomotiv Moskva vs Red Bull Salzburg', 'Club Atlético de Madrid vs Bayern München', '', 'Group B', 'Shakhtar Donetsk vs Real Madrid CF', 'Borussia Mönchengladbach vs Internazionale Milano', '', 'Group C', 'Porto vs Manchester City', 'Olympique de Marseille vs PAE Olympiakos SFP', '', 'Group D', 'Liverpool vs Ajax', 'Atalanta BC vs Midtjylland', '']
+Passing matches to 300471021	Hurmoed
+
+['Group A', 'Lokomotiv Moskva vs Red Bull Salzburg', 'Club Atlético de Madrid vs Bayern München', '', 'Group B', 'Shakhtar Donetsk vs Real Madrid CF', 'Borussia Mönchengladbach vs Internazionale Milano', '', 'Group C', 'Porto vs Manchester City', 'Olympique de Marseille vs PAE Olympiakos SFP', '', 'Group D', 'Liverpool vs Ajax', 'Atalanta BC vs Midtjylland', '']
+Passing matches to 198595882	innokenty_shuvalov
+
+['Group A', 'Lokomotiv Moskva vs Red Bull Salzburg', 'Club Atlético de Madrid vs Bayern München', '', 'Group B', 'Shakhtar Donetsk vs Real Madrid CF', 'Borussia Mönchengladbach vs Internazionale Milano', '', 'Group C', 'Porto vs Manchester City', 'Olympique de Marseille vs PAE Olympiakos SFP', '', 'Group D', 'Liverpool vs Ajax', 'Atalanta BC vs Midtjylland', '']
+Passing matches to 174772002	fathedgehog
+
+['Group A', 'Lokomotiv Moskva vs Red Bull Salzburg', 'Club Atlético de Madrid vs Bayern München', '', 'Group B', 'Shakhtar Donetsk vs Real Madrid CF', 'Borussia Mönchengladbach vs Internazionale Milano', '', 'Group C', 'Porto vs Manchester City', 'Olympique de Marseille vs PAE Olympiakos SFP', '', 'Group D', 'Liverpool vs Ajax', 'Atalanta BC vs Midtjylland', '']
+Passing matches to 308168739	insane_astrophysicist
+
+['Group A', 'Lokomotiv Moskva vs Red Bull Salzburg', 'Club Atlético de Madrid vs Bayern München', '', 'Group B', 'Shakhtar Donetsk vs Real Madrid CF', 'Borussia Mönchengladbach vs Internazionale Milano', '', 'Group C', 'Porto vs Manchester City', 'Olympique de Marseille vs PAE Olympiakos SFP', '', 'Group D', 'Liverpool vs Ajax', 'Atalanta BC vs Midtjylland', '']
+Today is 2020-10-22
+Todays matches passed: []
+Today is 2020-10-23
+Todays matches passed: []
+Today is 2020-10-24
+Todays matches passed: []
+Today is 2020-10-25
+Todays matches passed: []
+Today is 2020-10-26
+Todays matches passed: []
+Today is 2020-10-27
+Todays matches passed: ['Group A', 'Bayern München vs Lokomotiv Moskva', 'Red Bull Salzburg vs Club Atlético de Madrid', '', 'Group B', 'Internazionale Milano vs Shakhtar Donetsk', 'Real Madrid CF vs Borussia Mönchengladbach', '', 'Group C', 'Manchester City vs Olympique de Marseille', 'PAE Olympiakos SFP vs Porto', '', 'Group D', 'Midtjylland vs Liverpool', 'Ajax vs Atalanta BC', '']
+Passing matches to 560252265	 _no_name_
+
+['Group A', 'Bayern München vs Lokomotiv Moskva', 'Red Bull Salzburg vs Club Atlético de Madrid', '', 'Group B', 'Internazionale Milano vs Shakhtar Donetsk', 'Real Madrid CF vs Borussia Mönchengladbach', '', 'Group C', 'Manchester City vs Olympique de Marseille', 'PAE Olympiakos SFP vs Porto', '', 'Group D', 'Midtjylland vs Liverpool', 'Ajax vs Atalanta BC', '']
+Passing matches to 308168739	insane_astrophysicist
+
+['Group A', 'Bayern München vs Lokomotiv Moskva', 'Red Bull Salzburg vs Club Atlético de Madrid', '', 'Group B', 'Internazionale Milano vs Shakhtar Donetsk', 'Real Madrid CF vs Borussia Mönchengladbach', '', 'Group C', 'Manchester City vs Olympique de Marseille', 'PAE Olympiakos SFP vs Porto', '', 'Group D', 'Midtjylland vs Liverpool', 'Ajax vs Atalanta BC', '']
+Passing matches to 174772002	fathedgehog
+
+['Group A', 'Bayern München vs Lokomotiv Moskva', 'Red Bull Salzburg vs Club Atlético de Madrid', '', 'Group B', 'Internazionale Milano vs Shakhtar Donetsk', 'Real Madrid CF vs Borussia Mönchengladbach', '', 'Group C', 'Manchester City vs Olympique de Marseille', 'PAE Olympiakos SFP vs Porto', '', 'Group D', 'Midtjylland vs Liverpool', 'Ajax vs Atalanta BC', '']
+Passing matches to 300471021	Hurmoed
+
+['Group A', 'Bayern München vs Lokomotiv Moskva', 'Red Bull Salzburg vs Club Atlético de Madrid', '', 'Group B', 'Internazionale Milano vs Shakhtar Donetsk', 'Real Madrid CF vs Borussia Mönchengladbach', '', 'Group C', 'Manchester City vs Olympique de Marseille', 'PAE Olympiakos SFP vs Porto', '', 'Group D', 'Midtjylland vs Liverpool', 'Ajax vs Atalanta BC', '']
+Passing matches to 537503	ortemij
+
+['Group A', 'Bayern München vs Lokomotiv Moskva', 'Red Bull Salzburg vs Club Atlético de Madrid', '', 'Group B', 'Internazionale Milano vs Shakhtar Donetsk', 'Real Madrid CF vs Borussia Mönchengladbach', '', 'Group C', 'Manchester City vs Olympique de Marseille', 'PAE Olympiakos SFP vs Porto', '', 'Group D', 'Midtjylland vs Liverpool', 'Ajax vs Atalanta BC', '']
+Passing matches to 198595882	innokenty_shuvalov
+
+['Group A', 'Bayern München vs Lokomotiv Moskva', 'Red Bull Salzburg vs Club Atlético de Madrid', '', 'Group B', 'Internazionale Milano vs Shakhtar Donetsk', 'Real Madrid CF vs Borussia Mönchengladbach', '', 'Group C', 'Manchester City vs Olympique de Marseille', 'PAE Olympiakos SFP vs Porto', '', 'Group D', 'Midtjylland vs Liverpool', 'Ajax vs Atalanta BC', '']
+Passing matches to 164624686	bobsmirnov
+
+['Group A', 'Bayern München vs Lokomotiv Moskva', 'Red Bull Salzburg vs Club Atlético de Madrid', '', 'Group B', 'Internazionale Milano vs Shakhtar Donetsk', 'Real Madrid CF vs Borussia Mönchengladbach', '', 'Group C', 'Manchester City vs Olympique de Marseille', 'PAE Olympiakos SFP vs Porto', '', 'Group D', 'Midtjylland vs Liverpool', 'Ajax vs Atalanta BC', '']
+Today is 2020-10-28
+Todays matches passed: ['Group E', 'Chelsea vs Krasnodar', 'Stade Rennais vs Sevilla', '', 'Group F', 'Zenit Sankt\\-Petersburg vs Borussia Dortmund', 'Lazio vs Club Brugge', '', 'Group G', 'Barcelona vs Juventus', 'Dynamo Kyiv vs Ferencvárosi', '', 'Group H', 'Paris Saint\\-Germain vs Medipol Başakşehir', 'RB Leipzig vs Manchester United', '']
+Passing matches to 560252265	 _no_name_
+
+['Group E', 'Chelsea vs Krasnodar', 'Stade Rennais vs Sevilla', '', 'Group F', 'Zenit Sankt\\-Petersburg vs Borussia Dortmund', 'Lazio vs Club Brugge', '', 'Group G', 'Barcelona vs Juventus', 'Dynamo Kyiv vs Ferencvárosi', '', 'Group H', 'Paris Saint\\-Germain vs Medipol Başakşehir', 'RB Leipzig vs Manchester United', '']
+Passing matches to 308168739	insane_astrophysicist
+
+['Group E', 'Chelsea vs Krasnodar', 'Stade Rennais vs Sevilla', '', 'Group F', 'Zenit Sankt\\-Petersburg vs Borussia Dortmund', 'Lazio vs Club Brugge', '', 'Group G', 'Barcelona vs Juventus', 'Dynamo Kyiv vs Ferencvárosi', '', 'Group H', 'Paris Saint\\-Germain vs Medipol Başakşehir', 'RB Leipzig vs Manchester United', '']
+Passing matches to 132345233	 _no_name_
+
+['Group E', 'Chelsea vs Krasnodar', 'Stade Rennais vs Sevilla', '', 'Group F', 'Zenit Sankt\\-Petersburg vs Borussia Dortmund', 'Lazio vs Club Brugge', '', 'Group G', 'Barcelona vs Juventus', 'Dynamo Kyiv vs Ferencvárosi', '', 'Group H', 'Paris Saint\\-Germain vs Medipol Başakşehir', 'RB Leipzig vs Manchester United', '']
+Passing matches to 174772002	fathedgehog
+
+['Group E', 'Chelsea vs Krasnodar', 'Stade Rennais vs Sevilla', '', 'Group F', 'Zenit Sankt\\-Petersburg vs Borussia Dortmund', 'Lazio vs Club Brugge', '', 'Group G', 'Barcelona vs Juventus', 'Dynamo Kyiv vs Ferencvárosi', '', 'Group H', 'Paris Saint\\-Germain vs Medipol Başakşehir', 'RB Leipzig vs Manchester United', '']
+Passing matches to 300471021	Hurmoed
+
+['Group E', 'Chelsea vs Krasnodar', 'Stade Rennais vs Sevilla', '', 'Group F', 'Zenit Sankt\\-Petersburg vs Borussia Dortmund', 'Lazio vs Club Brugge', '', 'Group G', 'Barcelona vs Juventus', 'Dynamo Kyiv vs Ferencvárosi', '', 'Group H', 'Paris Saint\\-Germain vs Medipol Başakşehir', 'RB Leipzig vs Manchester United', '']
+Passing matches to 537503	ortemij
+
+['Group E', 'Chelsea vs Krasnodar', 'Stade Rennais vs Sevilla', '', 'Group F', 'Zenit Sankt\\-Petersburg vs Borussia Dortmund', 'Lazio vs Club Brugge', '', 'Group G', 'Barcelona vs Juventus', 'Dynamo Kyiv vs Ferencvárosi', '', 'Group H', 'Paris Saint\\-Germain vs Medipol Başakşehir', 'RB Leipzig vs Manchester United', '']
+Passing matches to 198595882	innokenty_shuvalov
+
+['Group E', 'Chelsea vs Krasnodar', 'Stade Rennais vs Sevilla', '', 'Group F', 'Zenit Sankt\\-Petersburg vs Borussia Dortmund', 'Lazio vs Club Brugge', '', 'Group G', 'Barcelona vs Juventus', 'Dynamo Kyiv vs Ferencvárosi', '', 'Group H', 'Paris Saint\\-Germain vs Medipol Başakşehir', 'RB Leipzig vs Manchester United', '']
+Passing matches to 164624686	bobsmirnov
+
+['Group E', 'Chelsea vs Krasnodar', 'Stade Rennais vs Sevilla', '', 'Group F', 'Zenit Sankt\\-Petersburg vs Borussia Dortmund', 'Lazio vs Club Brugge', '', 'Group G', 'Barcelona vs Juventus', 'Dynamo Kyiv vs Ferencvárosi', '', 'Group H', 'Paris Saint\\-Germain vs Medipol Başakşehir', 'RB Leipzig vs Manchester United', '']
+BV Borussia 09 Dortmund - 4
+FC Bayern München - 5
+Borussia Mönchengladbach - 18
+Chelsea FC - 61
+Liverpool FC - 64
+Manchester City FC - 65
+Manchester United FC - 66
+Club Atlético de Madrid - 78
+FC Barcelona - 81
+Real Madrid CF - 86
+Atalanta BC - 102
+FC Internazionale Milano - 108
+Juventus FC - 109
+SS Lazio - 110
+FC Porto - 503
+Olympique de Marseille - 516
+Paris Saint-Germain FC - 524
+Stade Rennais FC 1901 - 529
+Sevilla FC - 559
+Beşiktaş JK - 600
+Qarabağ Ağdam FK - 611
+PAE Olympiakos SFP - 654
+AFC Ajax - 678
+AZ - 682
+RB Leipzig - 721
+FK Zenit Sankt-Petersburg - 731
+Celtic FC - 732
+GNK Dinamo Zagreb - 755
+FK Dynamo Kyiv - 842
+Club Brugge KV - 851
+SK Slavia Praha - 930
+KAA Gent - 1057
+Legia Warszawa - 1105
+BSC Young Boys - 1871
+Dundalk FC - 1873
+Europa FC - 1874
+FC Red Bull Salzburg - 1877
+FC Sheriff Tiraspol - 1880
+FC Viktoria Plzeň - 1881
+Astana FK - 1884
+FK Budućnost Podgorica - 1885
+FK Shakhtar Donetsk - 1887
+Linfield FC - 1896
+Medipol Başakşehir FK - 1897
+PFK Ludogorets 1945 Razgrad - 1901
+Sport Lisboa e Benfica - 1903
+SK Rapid Wien - 2014
+FK Sarajevo - 4275
+NK Lokomotiva Zagreb - 4450
+FC Midtjylland - 4485
+Kuopion PS - 4655
+FC Flora - 5100
+Connah's Quay Nomads FC - 5142
+Djurgårdens IF Fotboll - 5280
+FK Krasnodar - 5452
+FK Lokomotiv Moskva - 5455
+FC CFR 1907 Cluj - 5515
+Molde FK - 5726
+Floriana FC - 5804
+FK Sūduva Marijampolė - 5819
+Rīga FC - 5826
+Maccabi Tel Aviv FC - 5929
+KR Reykjavík - 5947
+Ferencvárosi TC - 5954
+PAOK FC - 6146
+Drita KF Gjilan - 7282
+FK Crvena Zvezda - 7283
+KÍ - 7472
+SP Tre Fiori - 7473
+CS Fola Esch - 7480
+FC Dinamo Tbilisi - 7482
+ŠK Slovan Bratislava - 7509
+FK Dinamo Brest - 7518
+FC Ararat-Armenia - 8164
+Inter Club d'Escaldes - 8912
+FK Sileks - 8920
+AS Omonia Lefkosía - 8983
+KF Tirana - 8984
+NK Celje - 8985
+Today is 2020-10-29
+Todays matches passed: []
+BV Borussia 09 Dortmund - 4
+FC Bayern München - 5
+Borussia Mönchengladbach - 18
+Chelsea FC - 61
+Liverpool FC - 64
+Manchester City FC - 65
+Manchester United FC - 66
+Club Atlético de Madrid - 78
+FC Barcelona - 81
+Real Madrid CF - 86
+Atalanta BC - 102
+FC Internazionale Milano - 108
+Juventus FC - 109
+SS Lazio - 110
+FC Porto - 503
+Olympique de Marseille - 516
+Paris Saint-Germain FC - 524
+Stade Rennais FC 1901 - 529
+Sevilla FC - 559
+Beşiktaş JK - 600
+Qarabağ Ağdam FK - 611
+PAE Olympiakos SFP - 654
+AFC Ajax - 678
+AZ - 682
+RB Leipzig - 721
+FK Zenit Sankt-Petersburg - 731
+Celtic FC - 732
+GNK Dinamo Zagreb - 755
+FK Dynamo Kyiv - 842
+Club Brugge KV - 851
+SK Slavia Praha - 930
+KAA Gent - 1057
+Legia Warszawa - 1105
+BSC Young Boys - 1871
+Dundalk FC - 1873
+Europa FC - 1874
+FC Red Bull Salzburg - 1877
+FC Sheriff Tiraspol - 1880
+FC Viktoria Plzeň - 1881
+Astana FK - 1884
+FK Budućnost Podgorica - 1885
+FK Shakhtar Donetsk - 1887
+Linfield FC - 1896
+Medipol Başakşehir FK - 1897
+PFK Ludogorets 1945 Razgrad - 1901
+Sport Lisboa e Benfica - 1903
+SK Rapid Wien - 2014
+FK Sarajevo - 4275
+NK Lokomotiva Zagreb - 4450
+FC Midtjylland - 4485
+Kuopion PS - 4655
+FC Flora - 5100
+Connah's Quay Nomads FC - 5142
+Djurgårdens IF Fotboll - 5280
+FK Krasnodar - 5452
+FK Lokomotiv Moskva - 5455
+FC CFR 1907 Cluj - 5515
+Molde FK - 5726
+Floriana FC - 5804
+FK Sūduva Marijampolė - 5819
+Rīga FC - 5826
+Maccabi Tel Aviv FC - 5929
+KR Reykjavík - 5947
+Ferencvárosi TC - 5954
+PAOK FC - 6146
+Drita KF Gjilan - 7282
+FK Crvena Zvezda - 7283
+KÍ - 7472
+SP Tre Fiori - 7473
+CS Fola Esch - 7480
+FC Dinamo Tbilisi - 7482
+ŠK Slovan Bratislava - 7509
+FK Dinamo Brest - 7518
+FC Ararat-Armenia - 8164
+Inter Club d'Escaldes - 8912
+FK Sileks - 8920
+AS Omonia Lefkosía - 8983
+KF Tirana - 8984
+NK Celje - 8985
+Today is 2020-10-30
+Todays matches passed: []
+BV Borussia 09 Dortmund - 4
+FC Bayern München - 5
+Borussia Mönchengladbach - 18
+Chelsea FC - 61
+Liverpool FC - 64
+Manchester City FC - 65
+Manchester United FC - 66
+Club Atlético de Madrid - 78
+FC Barcelona - 81
+Real Madrid CF - 86
+Atalanta BC - 102
+FC Internazionale Milano - 108
+Juventus FC - 109
+SS Lazio - 110
+FC Porto - 503
+Olympique de Marseille - 516
+Paris Saint-Germain FC - 524
+Stade Rennais FC 1901 - 529
+Sevilla FC - 559
+Beşiktaş JK - 600
+Qarabağ Ağdam FK - 611
+PAE Olympiakos SFP - 654
+AFC Ajax - 678
+AZ - 682
+RB Leipzig - 721
+FK Zenit Sankt-Petersburg - 731
+Celtic FC - 732
+GNK Dinamo Zagreb - 755
+FK Dynamo Kyiv - 842
+Club Brugge KV - 851
+SK Slavia Praha - 930
+KAA Gent - 1057
+Legia Warszawa - 1105
+BSC Young Boys - 1871
+Dundalk FC - 1873
+Europa FC - 1874
+FC Red Bull Salzburg - 1877
+FC Sheriff Tiraspol - 1880
+FC Viktoria Plzeň - 1881
+Astana FK - 1884
+FK Budućnost Podgorica - 1885
+FK Shakhtar Donetsk - 1887
+Linfield FC - 1896
+Medipol Başakşehir FK - 1897
+PFK Ludogorets 1945 Razgrad - 1901
+Sport Lisboa e Benfica - 1903
+SK Rapid Wien - 2014
+FK Sarajevo - 4275
+NK Lokomotiva Zagreb - 4450
+FC Midtjylland - 4485
+Kuopion PS - 4655
+FC Flora - 5100
+Connah's Quay Nomads FC - 5142
+Djurgårdens IF Fotboll - 5280
+FK Krasnodar - 5452
+FK Lokomotiv Moskva - 5455
+FC CFR 1907 Cluj - 5515
+Molde FK - 5726
+Floriana FC - 5804
+FK Sūduva Marijampolė - 5819
+Rīga FC - 5826
+Maccabi Tel Aviv FC - 5929
+KR Reykjavík - 5947
+Ferencvárosi TC - 5954
+PAOK FC - 6146
+Drita KF Gjilan - 7282
+FK Crvena Zvezda - 7283
+KÍ - 7472
+SP Tre Fiori - 7473
+CS Fola Esch - 7480
+FC Dinamo Tbilisi - 7482
+ŠK Slovan Bratislava - 7509
+FK Dinamo Brest - 7518
+FC Ararat-Armenia - 8164
+Inter Club d'Escaldes - 8912
+FK Sileks - 8920
+AS Omonia Lefkosía - 8983
+KF Tirana - 8984
+NK Celje - 8985
+Today is 2020-10-31
+Todays matches passed: []
+BV Borussia 09 Dortmund - 4
+FC Bayern München - 5
+Borussia Mönchengladbach - 18
+Chelsea FC - 61
+Liverpool FC - 64
+Manchester City FC - 65
+Manchester United FC - 66
+Club Atlético de Madrid - 78
+FC Barcelona - 81
+Real Madrid CF - 86
+Atalanta BC - 102
+FC Internazionale Milano - 108
+Juventus FC - 109
+SS Lazio - 110
+FC Porto - 503
+Olympique de Marseille - 516
+Paris Saint-Germain FC - 524
+Stade Rennais FC 1901 - 529
+Sevilla FC - 559
+Beşiktaş JK - 600
+Qarabağ Ağdam FK - 611
+PAE Olympiakos SFP - 654
+AFC Ajax - 678
+AZ - 682
+RB Leipzig - 721
+FK Zenit Sankt-Petersburg - 731
+Celtic FC - 732
+GNK Dinamo Zagreb - 755
+FK Dynamo Kyiv - 842
+Club Brugge KV - 851
+SK Slavia Praha - 930
+KAA Gent - 1057
+Legia Warszawa - 1105
+BSC Young Boys - 1871
+Dundalk FC - 1873
+Europa FC - 1874
+FC Red Bull Salzburg - 1877
+FC Sheriff Tiraspol - 1880
+FC Viktoria Plzeň - 1881
+Astana FK - 1884
+FK Budućnost Podgorica - 1885
+FK Shakhtar Donetsk - 1887
+Linfield FC - 1896
+Medipol Başakşehir FK - 1897
+PFK Ludogorets 1945 Razgrad - 1901
+Sport Lisboa e Benfica - 1903
+SK Rapid Wien - 2014
+FK Sarajevo - 4275
+NK Lokomotiva Zagreb - 4450
+FC Midtjylland - 4485
+Kuopion PS - 4655
+FC Flora - 5100
+Connah's Quay Nomads FC - 5142
+Djurgårdens IF Fotboll - 5280
+FK Krasnodar - 5452
+FK Lokomotiv Moskva - 5455
+FC CFR 1907 Cluj - 5515
+Molde FK - 5726
+Floriana FC - 5804
+FK Sūduva Marijampolė - 5819
+Rīga FC - 5826
+Maccabi Tel Aviv FC - 5929
+KR Reykjavík - 5947
+Ferencvárosi TC - 5954
+PAOK FC - 6146
+Drita KF Gjilan - 7282
+FK Crvena Zvezda - 7283
+KÍ - 7472
+SP Tre Fiori - 7473
+CS Fola Esch - 7480
+FC Dinamo Tbilisi - 7482
+ŠK Slovan Bratislava - 7509
+FK Dinamo Brest - 7518
+FC Ararat-Armenia - 8164
+Inter Club d'Escaldes - 8912
+FK Sileks - 8920
+AS Omonia Lefkosía - 8983
+KF Tirana - 8984
+NK Celje - 8985
+Today is 2020-11-01
+Todays matches passed: []
+BV Borussia 09 Dortmund - 4
+FC Bayern München - 5
+Borussia Mönchengladbach - 18
+Chelsea FC - 61
+Liverpool FC - 64
+Manchester City FC - 65
+Manchester United FC - 66
+Club Atlético de Madrid - 78
+FC Barcelona - 81
+Real Madrid CF - 86
+Atalanta BC - 102
+FC Internazionale Milano - 108
+Juventus FC - 109
+SS Lazio - 110
+FC Porto - 503
+Olympique de Marseille - 516
+Paris Saint-Germain FC - 524
+Stade Rennais FC 1901 - 529
+Sevilla FC - 559
+Beşiktaş JK - 600
+Qarabağ Ağdam FK - 611
+PAE Olympiakos SFP - 654
+AFC Ajax - 678
+AZ - 682
+RB Leipzig - 721
+FK Zenit Sankt-Petersburg - 731
+Celtic FC - 732
+GNK Dinamo Zagreb - 755
+FK Dynamo Kyiv - 842
+Club Brugge KV - 851
+SK Slavia Praha - 930
+KAA Gent - 1057
+Legia Warszawa - 1105
+BSC Young Boys - 1871
+Dundalk FC - 1873
+Europa FC - 1874
+FC Red Bull Salzburg - 1877
+FC Sheriff Tiraspol - 1880
+FC Viktoria Plzeň - 1881
+Astana FK - 1884
+FK Budućnost Podgorica - 1885
+FK Shakhtar Donetsk - 1887
+Linfield FC - 1896
+Medipol Başakşehir FK - 1897
+PFK Ludogorets 1945 Razgrad - 1901
+Sport Lisboa e Benfica - 1903
+SK Rapid Wien - 2014
+FK Sarajevo - 4275
+NK Lokomotiva Zagreb - 4450
+FC Midtjylland - 4485
+Kuopion PS - 4655
+FC Flora - 5100
+Connah's Quay Nomads FC - 5142
+Djurgårdens IF Fotboll - 5280
+FK Krasnodar - 5452
+FK Lokomotiv Moskva - 5455
+FC CFR 1907 Cluj - 5515
+Molde FK - 5726
+Floriana FC - 5804
+FK Sūduva Marijampolė - 5819
+Rīga FC - 5826
+Maccabi Tel Aviv FC - 5929
+KR Reykjavík - 5947
+Ferencvárosi TC - 5954
+PAOK FC - 6146
+Drita KF Gjilan - 7282
+FK Crvena Zvezda - 7283
+KÍ - 7472
+SP Tre Fiori - 7473
+CS Fola Esch - 7480
+FC Dinamo Tbilisi - 7482
+ŠK Slovan Bratislava - 7509
+FK Dinamo Brest - 7518
+FC Ararat-Armenia - 8164
+Inter Club d'Escaldes - 8912
+FK Sileks - 8920
+AS Omonia Lefkosía - 8983
+KF Tirana - 8984
+NK Celje - 8985
+Today is 2020-11-02
+Todays matches passed: []
