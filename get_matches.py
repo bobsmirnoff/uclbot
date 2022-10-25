@@ -20,7 +20,6 @@ def trim(team_name):
                .replace('1901', '') \
                .replace('   ', '') \
                .replace('  ', ' ') \
-               .replace('-', '\-') \
                .strip()
 
 
