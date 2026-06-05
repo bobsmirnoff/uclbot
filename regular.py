@@ -10,16 +10,15 @@ print("Today is " + today)
 matches = get_matches(today)
 print("Todays matches passed: " + str(matches))
 
-bot = telebot.TeleBot(os.getenv('UCL_BOT_KEY', '')
-
+bot = telebot.TeleBot(os.getenv('UCL_BOT_KEY', ''))
 if len(matches) > 0:
     f = open('chats.txt', 'r')
     for line in f:
-        print("Passing matches to " + line)
+        print("Passing matches to " + line[:-1])
         try:
             _id = int(line.split('\t')[0])
             pass_matches(bot, _id, matches)
-        except ValueError:
-            pass
-    f.close()
+        except Exception as ex:
+            print(ex)
 
+    f.close()
