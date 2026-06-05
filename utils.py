@@ -6,11 +6,15 @@ import telebot
 def pass_matches(bot, _id, matches):
     if len(matches) > 0:
         print(matches)
-        bot.send_message(_id,
-            '\n'.join(['Сегодня будут сыграны матчи:', ''] + matches + ['[Делаем ставочки\!](http://total.pipeinpipe.info//)']),
+        i = bot.send_message(_id,
+            escape_for_tg('\n'.join(['Сегодня будут сыграны матчи:', ''] + matches + ['[Делаем ставочки\!](http://total.pipeinpipe.info//)'])),
             parse_mode='MarkdownV2')
+        print('response: ', i)
     else:
         bot.send_message(_id, 'Сегодня матчей не запланировано. Повторяем конспекты!')
+
+def escape_for_tg(s):
+    return s.replace('-', '\-').replace('.', '\.')
 
 
 def add_to_db(_id, username):
