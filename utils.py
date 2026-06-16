@@ -7,11 +7,12 @@ def pass_matches(bot, _id, matches):
     if len(matches) > 0:
         print(matches)
         i = bot.send_message(_id,
-            escape_for_tg('\n'.join(['Сегодня будут сыграны матчи:', ''] + matches + ['[Делаем ставочки\!](http://total.pipeinpipe.info//)'])),
+            escape_for_tg('\n'.join(['Сегодня и завтра будут сыграны матчи:', ''] + matches + ['[Делаем ставочки\!](http://total.pipeinpipe.info//)'])),
             parse_mode='MarkdownV2')
         print('response: ', i)
     else:
-        bot.send_message(_id, 'Сегодня матчей не запланировано. Повторяем конспекты!')
+        bot.send_message(_id, 'Сегодня и завтра матчей не запланировано. Повторяем конспекты!')
+
 
 def escape_for_tg(s):
     return s.replace('-', '\-').replace('.', '\.')
@@ -50,4 +51,3 @@ def delete_name(_id):
     for _id in chat_ids:
          f.write(str(_id))
     f.close()
-
