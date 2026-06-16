@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import http.client
 from datetime import datetime, timedelta
 from get_matches import get_matches_struct
@@ -35,6 +36,3 @@ post_matches(target_date.strftime("%Y-%m-%d"))
 
 print("Checking the next day")
 post_matches((target_date + timedelta(1)).strftime("%Y-%m-%d"))
-
-# test
-#post_matches("2026-06-11")

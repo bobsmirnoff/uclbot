@@ -2,12 +2,16 @@ import http.client
 import json
 import os
 import requests
-from datetime import datetime
+from datetime import datetime, timedelta
 import string
 from competition import comp
 
+# with open('matches.json', 'w') as outfile:
+   # json.dump(response, outfile)
+
 
 def trim(team_name):
+    return team_name
     if team_name == '' or not team_name:
         return ''
     return team_name.replace('AFC', '') \
@@ -36,12 +40,16 @@ def get_matches(date_str):
     session.headers.update(headers)
 
     response = session.get(url + '/v4/competitions/%s/matches?status=SCHEDULED' % comp['name'], allow_redirects=True).json()
-    groups = dict(('GROUP_' + g, []) for g in string.ascii_uppercase[:8])
+
+    if 'matches' not in response:
+        return []
+
+    groups = dict(('GROUP_' + g, []) for g in string.ascii_uppercase[:26])
     play_off = []
+    day_after = (datetime.strptime(date_str, '%Y-%m-%d') + timedelta(days=1)).strftime('%Y-%m-%d')
 
     for match in response['matches']:
-        if match['utcDate'].startswith(date_str) and match['homeTeam']['name'] and match['awayTeam']['name']:
-            print(match)
+        if (match['utcDate'].startswith(date_str) or match['utcDate'].startswith(day_after)) and match['homeTeam']['name'] and match['awayTeam']['name']:
             title = trim(match['homeTeam']['name']) + " vs " + trim(match['awayTeam']['name'])
             if match.get('group'):
                 groups[match['group']].append(title)
